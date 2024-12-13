@@ -25,4 +25,17 @@ The target variable is the Price of the home, which is the value we aim to predi
  Model Building: Linear Regression make fit and predict the data.
 
  Technology used:- jupyter notebook.
+
+ ![image](https://github.com/user-attachments/assets/6444c4c1-86c8-4889-b753-b41d5ff2a0ed)
+ ![image](https://github.com/user-attachments/assets/837ab1e1-7abe-4190-a6a0-56ecf5778025)
+ ![image](https://github.com/user-attachments/assets/15bc4d4d-c5aa-49e0-bada-2b565d391f98)
+ ![image](https://github.com/user-attachments/assets/63306604-8f5c-4297-adf3-1cac185fc91d)
+ ![image](https://github.com/user-attachments/assets/3ccdecd7-979a-424c-af29-d78f4879cca2)
+ ![image](https://github.com/user-attachments/assets/45beca6b-b80c-4c4c-b77f-131c54830744)
+
+
+
+
+
+
  
